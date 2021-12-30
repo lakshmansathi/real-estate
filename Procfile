@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Capstone.py
+web: sh setup.sh && streamlit run Kijiji_real_estate.py
